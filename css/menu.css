@@ -1,0 +1,30 @@
+.sidenav {
+    background-color: #060505;
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding: 20px 0 0 32px;
+    overflow: hidden;
+  }
+  .logo img {
+    max-width: 150px;
+    background-color: transparent;
+  }
+  .menulink a {
+    padding: 6px 6px 6px 0;
+    text-decoration: none;
+    font-size: 15px;
+    color: #818181;
+    display: block;
+  }
+  .menulink a:first-child {
+    color: white;
+    padding-left: 10px;
+    border-top: 1px solid #ffffff75; 
+    border-bottom: 1px solid #ffffff75; 
+    margin: 2rem; 
+  }
+  
